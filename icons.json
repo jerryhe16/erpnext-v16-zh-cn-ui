@@ -1,0 +1,67 @@
+{
+  "ERPNext": {
+    "file": "overview.svg",
+    "group": "general",
+    "label": "ERPNext 主页"
+  },
+  "Item": {
+    "file": "material.svg",
+    "group": "supply",
+    "label": "物料"
+  },
+  "Buying": {
+    "file": "procurement.svg",
+    "group": "supply",
+    "label": "采购"
+  },
+  "Stock": {
+    "file": "warehouse.svg",
+    "group": "supply",
+    "label": "库存"
+  },
+  "Manufacturing": {
+    "file": "production.svg",
+    "group": "engineering",
+    "label": "生产"
+  },
+  "Quality": {
+    "file": "quality.svg",
+    "group": "engineering",
+    "label": "质量"
+  },
+  "Projects": {
+    "file": "projects.svg",
+    "group": "engineering",
+    "label": "项目"
+  },
+  "Selling": {
+    "file": "sales.svg",
+    "group": "commercial",
+    "label": "销售"
+  },
+  "CRM": {
+    "file": "crm.svg",
+    "group": "commercial",
+    "label": "客户关系"
+  },
+  "Accounting": {
+    "file": "accounting.svg",
+    "group": "finance",
+    "label": "会计"
+  },
+  "Assets": {
+    "file": "assets.svg",
+    "group": "finance",
+    "label": "资产"
+  },
+  "Support": {
+    "file": "support.svg",
+    "group": "commercial",
+    "label": "售后支持"
+  },
+  "Framework": {
+    "file": "framework.svg",
+    "group": "general",
+    "label": "框架"
+  }
+}

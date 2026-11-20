@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <title>生产</title>
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#306DEE"/><stop offset="1" stop-color="#1B43AD"/></linearGradient>
+    <linearGradient id="h" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity=".02"/></linearGradient>
+    <clipPath id="c"><rect width="96" height="96" rx="21"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <path fill="url(#b)" d="M0 0h96v96H0z"/>
+    <path fill="url(#h)" d="M0 0h96L0 80z"/>
+  </g>
+  <path d="M22 72V48l18-11v13l18-11v13h14V26h7v46Zm10-11h7m12 0h7" fill="none" stroke="#fff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#A4DDFF"><path d="M64 23h15v7H64z"/></g>
+</svg>
